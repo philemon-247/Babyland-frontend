@@ -14,7 +14,8 @@ import Register from "./pages/Secure/Register";
 import Log from "./pages/Log/Login";
 import Contact from "./pages/Mail/Contact";
 import Error from "./pages/Error/Error";
-import AuthLayout from "./layouts/AuthLayout";
+import RootLayout from "./Layouts/RootLayout";
+import AuthLayout from "./Layouts/AuthLayout";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
