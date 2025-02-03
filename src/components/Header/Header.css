@@ -1,0 +1,42 @@
+.hero p,
+.hero a {
+  font-family: "Balsamiq sans", serif;
+}
+
+.hero img {
+  max-width: 1440px;
+  width: 100%;
+}
+
+.h-text {
+  text-align: start;
+  top: 178px;
+  right: 8.33%;
+  left: 50.56%;
+  gap: 68px;
+}
+
+.h-text h1 {
+  font-size: 67.68px;
+  font-weight: bolder;
+  font-family: "Balsamiq Sans", serif;
+  color: #1096b5;
+  text-shadow: 5px 0 0 #ffffff;
+}
+
+.h-text p {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #375259;
+}
+
+.h-text a {
+  padding: 22px 46px;
+  background-color: #ffe926;
+  border-radius: 74px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #191919;
+  font-family: "comfortaa", serif;
+}
